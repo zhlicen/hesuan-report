@@ -11,4 +11,4 @@ hesuan report
 
 ## 示例输出
 
-[!img](./example.png)
+![img](./example.png)
