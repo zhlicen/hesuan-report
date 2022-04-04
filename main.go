@@ -8,8 +8,8 @@ import (
 )
 
 func main() {
-	sum := 208 //len(baobeiList) 2022.04.04数据
-	done := len(hesuanList)
+	sum := 27*8 + 2
+	done := len(hesuanList) + len(notHomeList)
 	if done > sum {
 		sum = done
 	}

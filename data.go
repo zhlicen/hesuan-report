@@ -224,7 +224,15 @@ func init() {
 	notHomeList = make(map[string]interface{})
 	// 确定的不在家
 	notHomeList["504"] = 0
-
+	notHomeList["703"] = 0
+	notHomeList["1107"] = 0
+	notHomeList["1907"] = 0
+	notHomeList["2002"] = 0
+	notHomeList["2003"] = 0
+	notHomeList["2602"] = 0
+	notHomeList["2604"] = 0
+	notHomeList["2403"] = 0
+	notHomeList["1401"] = 0
 }
 
 func parseWechatRecord(m map[string]interface{}) {
