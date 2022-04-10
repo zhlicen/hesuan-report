@@ -233,6 +233,7 @@ func init() {
 	notHomeList["2604"] = 0
 	notHomeList["2403"] = 0
 	notHomeList["1401"] = 0
+	notHomeList["1602"] = 0
 }
 
 func parseWechatRecord(m map[string]interface{}) {
